@@ -5,6 +5,8 @@
     <form method="POST" action="{{ route('login') }}">
         @csrf
 
+        <p>admin:usmanelaahi@gmail.com</p>
+        <p>password:password</p>
         <!-- Email Address -->
         <div>
             <x-input-label for="email" :value="__('Email')" />
