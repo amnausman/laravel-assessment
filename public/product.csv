@@ -1,0 +1,21 @@
+handle,title,body,vendor,type,tags,published,url,size,
+copper-light,Copper Light,<p>Stylish copper bedside light</p>,Company 123,Indoor,"Copper, Bedroom",true,Title,Default Title,
+clay-plant-pot,Clay Plant Pot,<p>Classic blown clay pot for plants</p>,Company 123,Outdoor,"Pot, Plants",true,Size,Regul
+cream-sofa,Cream Sofa,<p>Comfortable cream sofa with wooden base</p>,Company 123,Indoor,"Couch, Wood",true,Title,Default Title
+antique-drawers,Antique Drawers,<p>Antique wooden chest of drawers</p>,Company 123,Indoor,"Antique, Bedroom",true,Title,Default Title
+white-bed-clothes,White Bed Clothes,<p>Sleek white bed clothes</p>,Company 123,Indoor,Bed,true,Title,Default Title,
+pink-armchair,Pink Armchair,<p>Stylish pink armchair</p>,Company 123,Indoor,Chair,true,Title,Default Ti
+wooden-outdoor-table,Wooden Outdoor Table,<p>Chic wooden outdoor garden table</p>,Rustic LTD,Outdoor,"Wood, Garden",true,Title,Default Titl
+brown-throw-pillows,Brown Throw Pillows,<p>Stylish brown throw pillows</p>,Rustic LTD,Indoor,Pillows,true,Title,Default Title,
+white-ceramic-pot,White Ceramic Pot,<p>Homemade white ceramic flower pot</p>,Rustic LTD,Indoor,"Pot, Plants",true,Title,Default Title,
+yellow-watering-can,Yellow watering can,<p>Vintage vibrant watering can</p>,Rustic LTD,Outdoor,Plants,true,Title,Default Title,
+gardening-hand-trowel,Gardening hand trowel,<p>Metal gardening hand trowel with wooden handle</p>,Rustic LTD,Outdoor,Plants,true,Title,Default Title,
+biodegradable-cardboard-pots,Biodegradable cardboard pots,<p>Biodegradable outdoor cardboard pots</p>,Rustic LTD,Outdoor,"Garden, Plants",true,Title,Default Title,
+grey-sofa,Grey Sofa,<p>Large four seater grey sofa</p>,Rustic LTD,Indoor,Sofa,true,Title,Default Title,
+wooden-outdoor-slats,Wooden outdoor slats,<p>Wooden outdoor fencing slats</p>,Rustic LTD,Outdoor,"Wood, Garden",true,Title,Default Title,
+wooden-fence,Wooden Fence,<p>Wooden garden fence</p>,Rustic LTD,Outdoor,"Garden, Wood",true,Title,Default Title
+yellow-sofa,Yellow Sofa,<p>Two seater yellow sofa with wooden legs</p>,Home Sweet Home,Indoor,Sofa,true,Title,Default Title,
+knitted-throw-pillows,Knitted Throw Pillows,<p>Homemade knitted throw pillows in a variety of colors</p>,Home Sweet Home,Indoor,Pillows,true,Title,Default Title,
+vanilla-candle,Vanilla candle,<p>Vanilla scent candle in jar</p>,Home Sweet Home,Indoor,Candle,true,Title,Default Title,
+black-bean-bag,Black Beanbag,<p>Black leather beanbag</p>,Company 123,Indoor,"Black, Leather",true,Title,Default Title,
+bedside-table,Bedside Table,<p>Wooden bedside table</p>,Company 123,Indoor,"Wood, Bedroom",true,Title,Default Title,
